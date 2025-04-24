@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayuri15jan)| [Email](mailto:mayuri15jan@gmail.com)  
 
 ⚡ Fun fact: I love turning caffeine into code and dreams into mobile apps! 🚀  
+
+## Tools and Technologies
